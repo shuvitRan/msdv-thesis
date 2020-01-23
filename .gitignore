@@ -1,0 +1,12 @@
+.DS_Store
+*.zip
+*.gz  (compressed)
+log/*.log
+log/*.log.[0-9]
+node_modules/
+*.log
+package-lock.json
+.env
+ecosystem.config.js
+.c9/
+config.js
