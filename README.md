@@ -1,4 +1,4 @@
-## Literature Review
+## Literature Study
 
 1. Menkjoff, Thomas. _Living in smart cities : innovation and sustainability_. World Scientific, 2018.
 NYU Bobst, Main Collection (HT153 .L535 2018 )
