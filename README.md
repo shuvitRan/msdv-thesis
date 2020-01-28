@@ -1,6 +1,6 @@
 ## Literature Study
 
-1. Menkjoff, Thomas. __Living in smart cities : innovation and sustainability__. World Scientific, 2018.
+1. Menkjoff, Thomas. *__Living in smart cities : innovation and sustainability__*. World Scientific, 2018.
 
   * NYU Bobst, Main Collection (HT153 .L535 2018 )
 
