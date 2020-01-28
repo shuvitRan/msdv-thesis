@@ -2,11 +2,11 @@
 
 1. Menkjoff, Thomas. *__Living in smart cities : innovation and sustainability__*. World Scientific, 2018.
 
-  * NYU Bobst, Main Collection (HT153 .L535 2018 )
+    * NYU Bobst, Main Collection (HT153 .L535 2018 )
 
 2. Birch, Eugenie L. *__Growing Greener Cities : Urban Sustainability in the Twenty-First Century__*. University of Pennsylvania Press, 2011.
 
-  * NYU Bobst, Main Collection  (HT241 .G76 2008)
+    * NYU Bobst, Main Collection  (HT241 .G76 2008)
 
 3. Bullivant, Lucy. *__Masterplanning Futures__*. Taylor and Francis, 2012.
 
