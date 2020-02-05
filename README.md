@@ -32,6 +32,10 @@ National Centers for Environmental Information
 ![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/outline/MindMap.png)
 ___
 
+Link to TNC
+https://www.nature.org/en-us/about-us/where-we-work/asia-pacific/china/stories-in-china/stormwater-management-in-china-s-cities/
+
+https://v.qq.com/x/page/c0658upohbq.html
 
 ## Literature Study
 
