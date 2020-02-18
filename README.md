@@ -1,4 +1,4 @@
-## Form 1
+### Form 1
 ![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/roofroofPersona.jpg)
 ![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/roofroof_1.png)
 ![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/RoofRoofDiagram.jpeg)
@@ -11,7 +11,7 @@ Building Owner, House Owner, Facility Owner, Rooftop apartment Owner.
 
 ___
 
-#### Form 2
+### Form 2
 ![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/CityProblemDiagram.jpeg)
 
 ![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/landfill.jpg)
