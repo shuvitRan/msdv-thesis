@@ -1,3 +1,40 @@
+## Form 1
+![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/roofroofPersona.jpg)
+![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/roofroof_1.jpg)
+![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/RoofRoofDiagram.jpeg)
+
+#### Roof Roof
+A mobile-friendly web application aiming to help people modify/transform their roof to an economic and environmental sustainable component.
+
+#### Audience: 
+Building Owner, House Owner, Facility Owner, Rooftop apartment Owner.
+
+___
+
+#### Form 2
+![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/CityProblemDiagram.jpeg)
+
+![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/landfill.jpg)
+
+#### Shenzhen: Pioneer's Problem
+Web interactive journalism on Big City Problem in China (Shenzhen). 
+
+#### Why is it Important.
+According to a Demographic research group, there are 102 cities in China with over one million people living in "urban area". 
+
+#### Issue
+Global Warming, Urban Heat Island Effect, Temperature Study
+Facilities and Population
+Carbon Emission
+Storm Water Problem, Flooding Data Visualization
+Garbage Disposal Problem, Disposal Data Visualization 
+
+#### Audience: 
+Citizens, Students, Government
+
+
+___
+
 ## Outline
 With the help of The Nature Conservancy, taking a frontier Chinese city Shenzhen as an example,  I am visualizing urban environment-related problems that many cities face today and creating an interactive guide to show people the practical solutions that they can act on the problems. My aim of this project is to show the significance of sustainable urban development and get people involved to improve their city environment.
 
