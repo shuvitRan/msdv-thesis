@@ -12,7 +12,7 @@ d3.json("GeoData/shenzhen.geojson").then((geoData) => {
                  .attr('class', 'sz-broader')
                  .attr('stroke', 'pink')
                  .attr('fill', 'rgb(103, 95, 196)')
-                 .attr('fill-opacity', 1)  .on('mouseover', function(d) {
+                 .attr('fill-opacity', 1).on('mouseover', function(d) {
                       console.log(d.properties);
                       d3.select('h1').text(d.properties.name );
                     });
