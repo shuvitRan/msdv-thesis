@@ -1,3 +1,16 @@
+### Wireframe
+
+#### Idea 1
+![Prototype](https://github.com/shuvitRan/msdv-thesis/blob/master/prototype/wire1.jpg)
+
+#### Idea 2
+![Prototype](https://github.com/shuvitRan/msdv-thesis/blob/master/prototype/wire2_0.jpg)
+![Prototype](https://github.com/shuvitRan/msdv-thesis/blob/master/prototype/wire2_1.jpg)
+![Prototype](https://github.com/shuvitRan/msdv-thesis/blob/master/prototype/wire2_2.jpg)
+![Prototype](https://github.com/shuvitRan/msdv-thesis/blob/master/prototype/wire2_3.jpg)
+
+---
+
 ### Form 1
 ![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/roofroofPersona1.jpg)
 ![Mind Map](https://github.com/shuvitRan/msdv-thesis/blob/master/Pics/roofroof_1.png)

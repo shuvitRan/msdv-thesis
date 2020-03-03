@@ -15,7 +15,14 @@ d3.json("GeoData/shenzhen.geojson").then((geoData) => {
                  .attr('fill-opacity', 1).on('mouseover', function(d) {
                       console.log(d.properties);
                       d3.select('h1').text(d.properties.name );
-                    });
+                      d3.select(this).style("fill","yellow");
+
+                    }).on('mouseout', function(d) {
+                         console.log(d.properties);
+                         d3.select('h1').text(d.properties.name );
+                         d3.select(this).style("fill","rgb(103, 95, 196)");
+
+                       });
 
  let drawName = svg.selectAll('.borderLabel')
                .data(geoData.features)
