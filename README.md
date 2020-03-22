@@ -106,3 +106,41 @@ https://v.qq.com/x/page/c0658upohbq.html
 6. Friedman, Avi. *__Fundamentals of Sustainable Dwellings__*. Washington, DC : Island Press/Center for Resource Economics, 2012.
 
 ---
+
+Bibliography
+
+López Moreno, Eduardo. 2017. "Concepts, Definitions And Data Sources For The Study Of Urbanization: The 2030 Agenda For Sustainable Development.”
+
+United Nations DESA,”68% Of The World Population Projected To Live In Urban Areas By 2050, Says UN | UN DESA | United Nations Department Of Economic And Social Affairs". 2018. UN DESA | United Nations Department Of Economic And Social Affairs. https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html.
+
+Bullivant, Lucy. Masterplanning Futures. Taylor and Francis, 2012.
+"OECD Urban Policy Reviews: China 2015 - En - OECD". 2015. Oecd.Org. http://www.oecd.org/china/oecd-urban-policy-reviews-china-2015-9789264230040-en.htm.
+("OECD Urban Policy Reviews: China 2015 - En - OECD" 2015)
+
+Statistics Bureau of Shenzhen Municipality, Shenzhen Statistical Yearbook 2019, China Statistics Press, 2019
+"The Rise Of China's 'Silicon Valley' - CNN Video". 2018. CNN. https://www.cnn.com/videos/business/2018/11/19/shenzhen-china-innovation.cnn-business.
+("The Rise Of China's 'Silicon Valley' - CNN Video" 2018)
+
+ Holmes, Frank "China's New Special Economic Zone Evokes Memories Of ...." 21 Apr. 2017, https://www.forbes.com/sites/greatspeculations/2017/04/21/chinas-new-special-economic-zone-evokes-memories-of-shenzhen/. Forbes, Accessed 20 Mar. 2020.
+
+
+ Xinhua "China expands Shenzhen special economic zone - China Daily." 06.02.2010 https://www.chinadaily.com.cn/business/2010-06/02/content_9925392.htm. Accessed 20 Mar. 2020.
+
+Shenzhen Government, "Preface_Profile-Shenzhen Government Online." 4 Jul. 2019, http://www.sz.gov.cn/en_szgov/aboutsz/profile/index.html. Accessed 20 Mar. 2020.
+
+ USA Today, "The most densely populated cities the world - USATODAY.com." 11 Jul. 2019, https://www.usatoday.com/story/news/world/2019/07/11/the-50-most-densely-populated-cities-in-the-world/39664259/. Accessed 20 Mar. 2020.
+
+The World Bank,  "China Overview - World Bank Group." https://www.worldbank.org/en/country/china/overview. Accessed 21 Mar. 2020.
+
+ "Top 50 World Container Ports | World Shipping Council." http://www.worldshipping.org/about-the-industry/global-trade/top-50-world-container-ports. Accessed 21 Mar. 2020.
+
+Zou, Mingxi “Transforming the ‘World Factory’ Designing for a [post] industrial Shenzhen“. Tongji University, 2012
+
+
+"Quality Of Life: Everyone Wants It, But What Is It?". Forbes. 4 September 2013. Retrieved 11 March 2020.
+
+Avery, Susan. "What is Quality of Life?" Area Development Site and Facility Planning 41.7 (2007): 19-21. ProQuest. 21 Mar. 2020 .
+
+Higgs, Kerryn “Collision course: Endless Growth on a Finite Planet”, MIT Press, 2014
+
+UNDP, Tsinghua University, and State Information Center, “China National Human Development Report Special Edition”, China Publishing Group Corporation, 2019
