@@ -1,0 +1,1801 @@
+[{
+  "hosname": "中国人民武装警察边防部队总医院",
+  "location": {
+    "lng": 114.10622106488127,
+    "lat": 22.58149802146121
+  },
+  "precise": 0,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "中国医学科学院肿瘤医院深圳医院",
+  "location": {
+    "lng": 114.25202491079865,
+    "lat": 22.6950644839847
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "北京大学深圳医院",
+  "location": {
+    "lng": 114.04982419776306,
+    "lat": 22.555147542377853
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "南方医科大学深圳医院",
+  "location": {
+    "lng": 113.87011940824034,
+    "lat": 22.569007094099167
+  },
+  "precise": 0,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "深圳万东医院",
+  "location": {
+    "lng": 114.11245121948045,
+    "lat": 22.608646231834992
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳万丰医院",
+  "location": {
+    "lng": 113.82891993060501,
+    "lat": 22.722919349478286
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 100,
+  "level": "道路"
+}, {
+  "hosname": "深圳中仁泌尿外科医院",
+  "location": {
+    "lng": 114.05800015327463,
+    "lat": 22.542800115249015
+  },
+  "precise": 0,
+  "confidence": 20,
+  "comprehension": 57,
+  "level": "城市"
+}, {
+  "hosname": "深圳中山大学附属第七医院",
+  "location": {
+    "lng": 113.93701155340048,
+    "lat": 22.73358917820187
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 4,
+  "level": "地产小区"
+}, {
+  "hosname": "深圳中山泌尿外科医院",
+  "location": {
+    "lng": 114.06861003585594,
+    "lat": 22.52849867109273
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳中海医院",
+  "location": {
+    "lng": 114.12654732854119,
+    "lat": 22.606934708274895
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳五洲中医医院",
+  "location": {
+    "lng": 113.94589456472035,
+    "lat": 22.546677858904
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳仁安医院",
+  "location": {
+    "lng": 114.2560003818445,
+    "lat": 22.719709346943922
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "深圳仁康医院",
+  "location": {
+    "lng": 114.11837699748524,
+    "lat": 22.585585856679273
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 100,
+  "level": "村庄"
+}, {
+  "hosname": "深圳仁爱医院",
+  "location": {
+    "lng": 114.04193761821331,
+    "lat": 22.51873070026295
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 100,
+  "level": "地产小区"
+}, {
+  "hosname": "深圳伟光医院",
+  "location": {
+    "lng": 113.8839997070953,
+    "lat": 22.553699649759118
+  },
+  "precise": 0,
+  "confidence": 20,
+  "comprehension": 24,
+  "level": "区县"
+}, {
+  "hosname": "深圳健安医院",
+  "location": {
+    "lng": 114.03814563427515,
+    "lat": 22.623767577294743
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 100,
+  "level": "楼号"
+}, {
+  "hosname": "深圳六联医院",
+  "location": {
+    "lng": 114.19507972186017,
+    "lat": 22.641249511142874
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳军龙医院",
+  "location": {
+    "lng": 114.02497361348055,
+    "lat": 22.666567209483883
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳凤凰医院",
+  "location": {
+    "lng": 114.13674997983715,
+    "lat": 22.546729197479003
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳华丹医院",
+  "location": {
+    "lng": 114.25696264243659,
+    "lat": 22.715612857118693
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳华侨医院",
+  "location": {
+    "lng": 114.14392993680735,
+    "lat": 22.687079712351018
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳华侨城医院",
+  "location": {
+    "lng": 113.97970628533245,
+    "lat": 22.538510784775664
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 100,
+  "level": "商圈"
+}, {
+  "hosname": "深圳华南妇科医院",
+  "location": {
+    "lng": 114.32056190011053,
+    "lat": 22.7044339779003
+  },
+  "precise": 0,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "深圳华厦眼科医院",
+  "location": {
+    "lng": 114.04126609435004,
+    "lat": 22.55420950986989
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳华夏医院",
+  "location": {
+    "lng": 114.11112406717616,
+    "lat": 22.621708738926976
+  },
+  "precise": 0,
+  "confidence": 25,
+  "comprehension": 24,
+  "level": "乡镇"
+}, {
+  "hosname": "深圳博爱医院",
+  "location": {
+    "lng": 114.10475963629084,
+    "lat": 22.552170663078986
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳厚德医院",
+  "location": {
+    "lng": 114.01180985152322,
+    "lat": 22.673898337295768
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳友谊医院",
+  "location": {
+    "lng": 113.92154501977556,
+    "lat": 22.543412398793826
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 57,
+  "level": "村庄"
+}, {
+  "hosname": "深圳口岸医院",
+  "location": {
+    "lng": 114.0737520519384,
+    "lat": 22.518354485415554
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 100,
+  "level": "地产小区"
+}, {
+  "hosname": "深圳同仁妇产医院",
+  "location": {
+    "lng": 113.87780868465971,
+    "lat": 22.571039059714035
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "深圳和平医院",
+  "location": {
+    "lng": 114.04220302482278,
+    "lat": 22.541457355382963
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳和美妇儿科医院",
+  "location": {
+    "lng": 114.05877000825375,
+    "lat": 22.64061012736479
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 35,
+  "level": "道路"
+}, {
+  "hosname": "深圳国丹妇儿科医院",
+  "location": {
+    "lng": 114.03640965259487,
+    "lat": 22.648860579363078
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 100,
+  "level": "休闲娱乐"
+}, {
+  "hosname": "深圳坂田医院",
+  "location": {
+    "lng": 114.06756740393101,
+    "lat": 22.627786207902215
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳复亚医院",
+  "location": {
+    "lng": 113.82703445595268,
+    "lat": 22.762189631493218
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 24,
+  "level": "公司企业"
+}, {
+  "hosname": "深圳大学医院",
+  "location": {
+    "lng": 113.93610448734934,
+    "lat": 22.53378875041314
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 100,
+  "level": "教育"
+}, {
+  "hosname": "深圳大学总医院",
+  "location": {
+    "lng": 113.98744355722661,
+    "lat": 22.59444095892043
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳天伦医院",
+  "location": {
+    "lng": 113.82275613788588,
+    "lat": 22.778586896974833
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 100,
+  "level": "商务大厦"
+}, {
+  "hosname": "深圳美奥口腔医院",
+  "location": {
+    "lng": 113.92791538389646,
+    "lat": 22.521803760917237
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 57,
+  "level": "地产小区"
+}, {
+  "hosname": "深圳宝兴医院",
+  "location": {
+    "lng": 114.1933898884021,
+    "lat": 22.63853709396175
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 100,
+  "level": "商务大厦"
+}, {
+  "hosname": "深圳宝坪医院",
+  "location": {
+    "lng": 114.29759218557813,
+    "lat": 22.689317219574423
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 100,
+  "level": "商务大厦"
+}, {
+  "hosname": "深圳宝生妇儿科医院",
+  "location": {
+    "lng": 113.89601997109638,
+    "lat": 22.5814496134529
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳宝田医院",
+  "location": {
+    "lng": 113.8730433731763,
+    "lat": 22.78211615582785
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳岭南医院",
+  "location": {
+    "lng": 113.97880303459652,
+    "lat": 22.55246438359696
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 57,
+  "level": "商务大厦"
+}, {
+  "hosname": "深圳市中医院",
+  "location": {
+    "lng": 114.08562105252396,
+    "lat": 22.537152417493456
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市人民医院",
+  "location": {
+    "lng": 114.13468027575456,
+    "lat": 22.55865543647637
+  },
+  "precise": 0,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "深圳市人民医院龙华分院",
+  "location": {
+    "lng": 114.02405416325303,
+    "lat": 22.66479340427375
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市儿童医院",
+  "location": {
+    "lng": 114.0568190432663,
+    "lat": 22.534066153608517
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 18,
+  "level": "村庄"
+}, {
+  "hosname": "深圳市光明新区人民医院",
+  "location": {
+    "lng": 113.90733999762924,
+    "lat": 22.71958014548301
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 57,
+  "level": "道路"
+}, {
+  "hosname": "深圳市公安局戒毒专科医院",
+  "location": {
+    "lng": 114.13099989058968,
+    "lat": 22.54819925601884
+  },
+  "precise": 0,
+  "confidence": 20,
+  "comprehension": 100,
+  "level": "区县"
+}, {
+  "hosname": "深圳市公安局监管医院",
+  "location": {
+    "lng": 114.05355717641194,
+    "lat": 22.569766793015688
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市公安局预审监管支队监管医院",
+  "location": {
+    "lng": 114.03857365163493,
+    "lat": 22.57087397592177
+  },
+  "precise": 0,
+  "confidence": 25,
+  "comprehension": 100,
+  "level": "乡镇"
+}, {
+  "hosname": "深圳市南山区人民医院",
+  "location": {
+    "lng": 113.91917998371652,
+    "lat": 22.532520191015553
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 100,
+  "level": "道路"
+}, {
+  "hosname": "深圳市南山区妇幼保健院",
+  "location": {
+    "lng": 113.93094641320187,
+    "lat": 22.486996387432843
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市南山区慢性病防治院",
+  "location": {
+    "lng": 113.92798930195114,
+    "lat": 22.507410880828957
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市南山区蛇口人民医院",
+  "location": {
+    "lng": 113.92117685483112,
+    "lat": 22.496443735002796
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市坪山新区人民医院",
+  "location": {
+    "lng": 114.35138961907373,
+    "lat": 22.68701036953046
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市坪山新区妇幼保健院",
+  "location": {
+    "lng": 114.36906040508302,
+    "lat": 22.74598951687691
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市大鹏新区南澳人民医院",
+  "location": {
+    "lng": 114.49440159696334,
+    "lat": 22.534116546918
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 100,
+  "level": "医疗"
+}, {
+  "hosname": "深圳市大鹏新区妇幼保健院",
+  "location": {
+    "lng": 114.48552012963152,
+    "lat": 22.59451978294181
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市大鹏新区葵涌人民医院",
+  "location": {
+    "lng": 114.42204973548151,
+    "lat": 22.632139835980517
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市妇幼保健院",
+  "location": {
+    "lng": 114.09432984674316,
+    "lat": 22.54942043283241
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市孙逸仙心血管医院",
+  "location": {
+    "lng": 114.12917938699188,
+    "lat": 22.556465618520924
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市南山院区孙逸仙心血管医院",
+  "location": {
+    "lng": 114.05800015327463,
+    "lat": 22.542800115249015
+  },
+  "precise": 0,
+  "confidence": 20,
+  "comprehension": 57,
+  "level": "城市"
+}, {
+  "hosname": "深圳市宝安区中医院",
+  "location": {
+    "lng": 113.89931839147518,
+    "lat": 22.571714360133726
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市宝安区人民医院",
+  "location": {
+    "lng": 113.9049690776621,
+    "lat": 22.5563915105773
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 35,
+  "level": "商务大厦"
+}, {
+  "hosname": "深圳市宝安区妇幼保健院",
+  "location": {
+    "lng": 113.87670569850198,
+    "lat": 22.561572293166954
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市宝安区慢性病防治院",
+  "location": {
+    "lng": 113.86658496701725,
+    "lat": 22.615143780629662
+  },
+  "precise": 0,
+  "confidence": 25,
+  "comprehension": 100,
+  "level": "乡镇"
+}, {
+  "hosname": "深圳市宝安区松岗人民医院",
+  "location": {
+    "lng": 113.84093009051516,
+    "lat": 22.77602981414612
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市宝安区沙井人民医院",
+  "location": {
+    "lng": 113.80569258450326,
+    "lat": 22.73228563771969
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市宝安区沙井新桥卫生院",
+  "location": {
+    "lng": 113.83312666833991,
+    "lat": 22.74043168962366
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 57,
+  "level": "地产小区"
+}, {
+  "hosname": "深圳市宝安区沙井镇坣岗村卫生院",
+  "location": {
+    "lng": 113.8199197026168,
+    "lat": 22.729669947202115
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 100,
+  "level": "道路"
+}, {
+  "hosname": "深圳市宝安区石岩人民医院",
+  "location": {
+    "lng": 113.9414399259849,
+    "lat": 22.678410246693858
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "深圳市宝安区福永人民医院",
+  "location": {
+    "lng": 113.81887909638436,
+    "lat": 22.67092701635292
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市宝安区计划生育专科医院",
+  "location": {
+    "lng": 113.90129217064995,
+    "lat": 22.565553659197075
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 100,
+  "level": "地产小区"
+}, {
+  "hosname": "深圳市康宁医院",
+  "location": {
+    "lng": 114.13068294158761,
+    "lat": 22.564250266728887
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市慢性病防治中心",
+  "location": {
+    "lng": 114.1354999081821,
+    "lat": 22.574419534308493
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市盐田区人民医院",
+  "location": {
+    "lng": 114.23371058967663,
+    "lat": 22.55663862730314
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市盐田区人民医院梅沙分院",
+  "location": {
+    "lng": 114.30665539988763,
+    "lat": 22.59511206676283
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 100,
+  "level": "地产小区"
+}, {
+  "hosname": "深圳市盐田区妇幼保健院",
+  "location": {
+    "lng": 114.23452976387514,
+    "lat": 22.555990875044543
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 57,
+  "level": "商圈"
+}, {
+  "hosname": "深圳市盐田区盐港医院",
+  "location": {
+    "lng": 114.24142522275123,
+    "lat": 22.603626911896704
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 100,
+  "level": "道路"
+}, {
+  "hosname": "深圳市眼科医院",
+  "location": {
+    "lng": 114.01477996701355,
+    "lat": 22.545917193883874
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "深圳市社会福利中心康复医院",
+  "location": {
+    "lng": 114.06944938278647,
+    "lat": 22.568764457858826
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市福田区中医院",
+  "location": {
+    "lng": 114.04155905402536,
+    "lat": 22.556508594364086
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 35,
+  "level": "地产小区"
+}, {
+  "hosname": "深圳市福田区人民医院第三分院",
+  "location": {
+    "lng": 114.0998707666038,
+    "lat": 22.562818480726097
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市福田区人民医院肛肠专科分院",
+  "location": {
+    "lng": 114.07178038776058,
+    "lat": 22.568689387800248
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市福田区人民医院香蜜湖分院",
+  "location": {
+    "lng": 114.01724018508168,
+    "lat": 22.5363382018231
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市福田区妇幼保健院",
+  "location": {
+    "lng": 114.06463991103968,
+    "lat": 22.522819768727903
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市福田区慢性病防治院",
+  "location": {
+    "lng": 114.04435991414736,
+    "lat": 22.52942034720088
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市福田区第二人民医院",
+  "location": {
+    "lng": 114.05903057537921,
+    "lat": 22.566830490022916
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市中医肛肠医院(福田)",
+  "location": {
+    "lng": 114.09458985334066,
+    "lat": 22.536740594913216
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 100,
+  "level": "道路"
+}, {
+  "hosname": "深圳市福田区风湿病专科医院",
+  "location": {
+    "lng": 114.01874766240196,
+    "lat": 22.53723887152688
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市第三人民医院",
+  "location": {
+    "lng": 114.1291195762355,
+    "lat": 22.6350621652205
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市第二人民医院",
+  "location": {
+    "lng": 114.08594974281894,
+    "lat": 22.55667975525613
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市罗湖区中医院",
+  "location": {
+    "lng": 114.30606105016979,
+    "lat": 22.714413525408123
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市罗湖区人民医院",
+  "location": {
+    "lng": 114.12139986868362,
+    "lat": 22.5385298611674
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 100,
+  "level": "道路"
+}, {
+  "hosname": "深圳市罗湖区人民医院老年病分院",
+  "location": {
+    "lng": 114.13932991220659,
+    "lat": 22.567929541218067
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市罗湖区妇幼保健院",
+  "location": {
+    "lng": 114.13679992863183,
+    "lat": 22.576259578706996
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市罗湖区慢性病防治院",
+  "location": {
+    "lng": 114.10145975607938,
+    "lat": 22.570160411441083
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市职业病防治院",
+  "location": {
+    "lng": 114.11380660762946,
+    "lat": 22.553161346145693
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市麒麟山疗养院",
+  "location": {
+    "lng": 113.97152208697344,
+    "lat": 22.608375914446988
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 100,
+  "level": "NoClass"
+}, {
+  "hosname": "深圳市龙华区妇幼保健中心",
+  "location": {
+    "lng": 113.99241958344851,
+    "lat": 22.67177044601925
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙华新区中心医院",
+  "location": {
+    "lng": 114.04216992569886,
+    "lat": 22.7012408569734
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 100,
+  "level": "道路"
+}, {
+  "hosname": "深圳市龙华新区人民医院",
+  "location": {
+    "lng": 113.90115450992552,
+    "lat": 22.776961230707002
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 100,
+  "level": "道路"
+}, {
+  "hosname": "深圳市龙华新区慢性病防治中心",
+  "location": {
+    "lng": 114.0513622662244,
+    "lat": 22.71525760314044
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 11,
+  "level": "休闲娱乐"
+}, {
+  "hosname": "深圳市龙岗中心医院",
+  "location": {
+    "lng": 114.23600075371806,
+    "lat": 22.69951516341945
+  },
+  "precise": 0,
+  "confidence": 20,
+  "comprehension": 57,
+  "level": "区县"
+}, {
+  "hosname": "深圳市龙岗中心医院手外科医院",
+  "location": {
+    "lng": 114.26615236111564,
+    "lat": 22.741536295368153
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙岗区中医院",
+  "location": {
+    "lng": 114.21589981783906,
+    "lat": 22.707529874322365
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙岗区人民医院",
+  "location": {
+    "lng": 114.22805013655538,
+    "lat": 22.72629148457389
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙岗区妇幼保健院",
+  "location": {
+    "lng": 114.23564726727142,
+    "lat": 22.727583296854522
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙岗区慢性病防治院",
+  "location": {
+    "lng": 114.22770005616418,
+    "lat": 22.722111480134604
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙岗区第七人民医院",
+  "location": {
+    "lng": 114.16209967178563,
+    "lat": 22.613340639428873
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙岗区第三人民医院",
+  "location": {
+    "lng": 114.21220991023522,
+    "lat": 22.64801145648457
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙岗区第五人民医院",
+  "location": {
+    "lng": 114.13090235790175,
+    "lat": 22.697746177284284
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙岗区第六人民医院",
+  "location": {
+    "lng": 114.13442732710617,
+    "lat": 22.612997501526248
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 57,
+  "level": "道路"
+}, {
+  "hosname": "深圳市龙岗区第四人民医院",
+  "location": {
+    "lng": 114.14353240868184,
+    "lat": 22.603078148223222
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 100,
+  "level": "NoClass"
+}, {
+  "hosname": "深圳市龙岗区耳鼻咽喉医院",
+  "location": {
+    "lng": 114.24443676927966,
+    "lat": 22.709192349965395
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "餐饮"
+}, {
+  "hosname": "深圳市龙岗区耳鼻咽喉医院",
+  "location": {
+    "lng": 114.24443002607502,
+    "lat": 22.70917980916248
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙岗区骨科医院",
+  "location": {
+    "lng": 114.26615236111564,
+    "lat": 22.741536295368153
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙岗区骨科医院",
+  "location": {
+    "lng": 114.26615236111564,
+    "lat": 22.741536295368153
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳希玛林顺潮眼科医院",
+  "location": {
+    "lng": 114.02701688952885,
+    "lat": 22.53164240983456
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 100,
+  "level": "商圈"
+}, {
+  "hosname": "深圳平乐骨伤科医院坪山院区",
+  "location": {
+    "lng": 114.37548036290991,
+    "lat": 22.747689336654425
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 100,
+  "level": "道路"
+}, {
+  "hosname": "深圳平乐骨伤科医院罗湖院区",
+  "location": {
+    "lng": 114.10731683369914,
+    "lat": 22.538768537951732
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳广生医院",
+  "location": {
+    "lng": 113.82496687905935,
+    "lat": 22.691188504298985
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 18,
+  "level": "NoClass"
+}, {
+  "hosname": "深圳建国泌尿外科医院",
+  "location": {
+    "lng": 113.92289982736861,
+    "lat": 22.520800325599456
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 57,
+  "level": "门址"
+}, {
+  "hosname": "深圳德尚泌尿外科医院",
+  "location": {
+    "lng": 114.11668975079664,
+    "lat": 22.541590219526867
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳怡宁医院",
+  "location": {
+    "lng": 114.04460079496145,
+    "lat": 22.713040877645717
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 0,
+  "level": "宾馆"
+}, {
+  "hosname": "深圳怡康妇产医院",
+  "location": {
+    "lng": 114.11143469184161,
+    "lat": 22.550979100203087
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 18,
+  "level": "商务大厦"
+}, {
+  "hosname": "深圳恒生医院",
+  "location": {
+    "lng": 113.86011580167434,
+    "lat": 22.576743246231157
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 100,
+  "level": "地产小区"
+}, {
+  "hosname": "深圳慈海医院",
+  "location": {
+    "lng": 114.26578003602215,
+    "lat": 22.715160041887756
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "泰康拜博口腔(深圳总院)",
+  "location": {
+    "lng": 114.10401763649182,
+    "lat": 22.55541359915434
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 35,
+  "level": "商务大厦"
+}, {
+  "hosname": "深圳昆仑医院",
+  "location": {
+    "lng": 113.8639898213588,
+    "lat": 22.581140364409883
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳景田医院",
+  "location": {
+    "lng": 114.04216609342157,
+    "lat": 22.54921846302653
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳欢乐口腔医院",
+  "location": {
+    "lng": 114.09698880352154,
+    "lat": 22.53933067769964
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 18,
+  "level": "楼号"
+}, {
+  "hosname": "深圳正康骨科医院",
+  "location": {
+    "lng": 113.88984797113926,
+    "lat": 22.58361762517986
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳民生妇科医院",
+  "location": {
+    "lng": 114.02064693283499,
+    "lat": 22.66383543551234
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 57,
+  "level": "村庄"
+}, {
+  "hosname": "深圳永福医院",
+  "location": {
+    "lng": 113.81142140823812,
+    "lat": 22.67367392310755
+  },
+  "precise": 0,
+  "confidence": 25,
+  "comprehension": 100,
+  "level": "乡镇"
+}, {
+  "hosname": "深圳沙河医院",
+  "location": {
+    "lng": 113.96986856937718,
+    "lat": 22.539399967725267
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 100,
+  "level": "商圈"
+}, {
+  "hosname": "深圳流花医院",
+  "location": {
+    "lng": 114.12609367970875,
+    "lat": 22.53956071168888
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳港龙妇产医院",
+  "location": {
+    "lng": 114.23600075371806,
+    "lat": 22.69951516341945
+  },
+  "precise": 0,
+  "confidence": 20,
+  "comprehension": 57,
+  "level": "区县"
+}, {
+  "hosname": "深圳燕罗塘医院",
+  "location": {
+    "lng": 113.84211022563181,
+    "lat": 22.798589606985594
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳爱尔眼科医院",
+  "location": {
+    "lng": 114.08732703588366,
+    "lat": 22.53539525768457
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 100,
+  "level": "商务大厦"
+}, {
+  "hosname": "深圳爱康健口腔医院",
+  "location": {
+    "lng": 114.13001686813872,
+    "lat": 22.54611626509681
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 35,
+  "level": "NoClass"
+}, {
+  "hosname": "深圳爱视眼科医院",
+  "location": {
+    "lng": 114.11467832072951,
+    "lat": 22.541223006121278
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 57,
+  "level": "门址"
+}, {
+  "hosname": "深圳爱维艾夫妇科医院",
+  "location": {
+    "lng": 114.29352063206443,
+    "lat": 22.71947275031379
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳瑞敏皮肤科医院",
+  "location": {
+    "lng": 114.12623724731412,
+    "lat": 22.5391250264194
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳百合医院",
+  "location": {
+    "lng": 114.11342150730563,
+    "lat": 22.697106887734503
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 12,
+  "level": "公司企业"
+}, {
+  "hosname": "深圳监狱医院",
+  "location": {
+    "lng": 114.05800015327463,
+    "lat": 22.542800115249015
+  },
+  "precise": 0,
+  "confidence": 20,
+  "comprehension": 57,
+  "level": "城市"
+}, {
+  "hosname": "深圳福华口腔医院",
+  "location": {
+    "lng": 114.08429202959496,
+    "lat": 22.537485551047364
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳罗岗医院",
+  "location": {
+    "lng": 114.12591512158292,
+    "lat": 22.596535779191736
+  },
+  "precise": 0,
+  "confidence": 50,
+  "comprehension": 100,
+  "level": "工业园区"
+}, {
+  "hosname": "深圳美中宜和妇产医院",
+  "location": {
+    "lng": 113.91885993377501,
+    "lat": 22.526370168807055
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳肖传国医院",
+  "location": {
+    "lng": 114.06656836734446,
+    "lat": 22.656694897185634
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 57,
+  "level": "地产小区"
+}, {
+  "hosname": "深圳市萨米医疗中心",
+  "location": {
+    "lng": 114.35294431371437,
+    "lat": 22.699924957959816
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳远东妇产医院",
+  "location": {
+    "lng": 114.12389186953268,
+    "lat": 22.543454671356532
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 100,
+  "level": "商务大厦"
+}, {
+  "hosname": "深圳远大肛肠医院",
+  "location": {
+    "lng": 114.1196439731565,
+    "lat": 22.532693007916006
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 35,
+  "level": "政府机构"
+}, {
+  "hosname": "深圳雪象医院",
+  "location": {
+    "lng": 114.07797046790078,
+    "lat": 22.686488044683703
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 100,
+  "level": "道路"
+}, {
+  "hosname": "深圳鹏程医院",
+  "location": {
+    "lng": 114.1077989001557,
+    "lat": 22.555182096645247
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 100,
+  "level": "商务大厦"
+}, {
+  "hosname": "深圳龙城医院",
+  "location": {
+    "lng": 114.23046873450119,
+    "lat": 22.703219322724756
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳龙城心脑血管病医院",
+  "location": {
+    "lng": 114.23085965231941,
+    "lat": 22.70330428853174
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳仁合医院",
+  "location": {
+    "lng": 114.02150008345725,
+    "lat": 22.635218488712027
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "深圳龙济医院",
+  "location": {
+    "lng": 114.03701367734642,
+    "lat": 22.659251536747135
+  },
+  "precise": 0,
+  "confidence": 25,
+  "comprehension": 57,
+  "level": "乡镇"
+}, {
+  "hosname": "深圳龙翔医院",
+  "location": {
+    "lng": 114.20468037522059,
+    "lat": 22.643659639019607
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "香港大学深圳医院",
+  "location": {
+    "lng": 113.99396999818144,
+    "lat": 22.52458048204841
+  },
+  "precise": 0,
+  "confidence": 30,
+  "comprehension": 100,
+  "level": "道路"
+}, {
+  "hosname": "龙城心血管病医院",
+  "location": {
+    "lng": 114.23085965231941,
+    "lat": 22.70330428853174
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市急救中心院前分站",
+  "location": {
+    "lng": 114.0864810262603,
+    "lat": 22.557574793444363
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "市急救中心眼科医院分站",
+  "location": {
+    "lng": 114.01477996701355,
+    "lat": 22.545917193883874
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}, {
+  "hosname": "市急救中心香港大学深圳医院分站",
+  "location": {
+    "lng": 113.99597399581268,
+    "lat": 22.525908368478216
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "市急救中心市职业病防治院分站",
+  "location": {
+    "lng": 114.13588991102372,
+    "lat": 22.57449954109319
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "市急救中心西丽分站",
+  "location": {
+    "lng": 113.94904519690196,
+    "lat": 22.580082228554232
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "中山大学附属第八医院（深圳福田）",
+  "location": {
+    "lng": 114.07950019873977,
+    "lat": 22.53941957127027
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "广州中医药大学深圳医院",
+  "location": {
+    "lng": 114.04235509200204,
+    "lat": 22.559242146882887
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "南方科技大学医院（深圳市南山区西丽人民医院）",
+  "location": {
+    "lng": 113.94904519690196,
+    "lat": 22.580082228554232
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市宝安区中心医院（西乡人民医院）",
+  "location": {
+    "lng": 113.88081961405528,
+    "lat": 22.579119881239485
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙岗区第二人民医院",
+  "location": {
+    "lng": 114.11595216714441,
+    "lat": 22.605464835104794
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市龙华区人民医院",
+  "location": {
+    "lng": 114.02074965142906,
+    "lat": 22.652408276463674
+  },
+  "precise": 1,
+  "confidence": 70,
+  "comprehension": 57,
+  "level": "汽车服务"
+}, {
+  "hosname": "深圳市龙华区中心医院",
+  "location": {
+    "lng": 114.0459713736164,
+    "lat": 22.712547643488886
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市坪山区人民医院",
+  "location": {
+    "lng": 114.35138961907373,
+    "lat": 22.68701036953046
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "深圳市坪山新区妇幼保健院",
+  "location": {
+    "lng": 114.36906040508302,
+    "lat": 22.74598951687691
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 100,
+  "level": "门址"
+}, {
+  "hosname": "中国科学院大学深圳医院",
+  "location": {
+    "lng": 113.90099093216342,
+    "lat": 22.747521071671155
+  },
+  "precise": 1,
+  "confidence": 75,
+  "comprehension": 18,
+  "level": "购物"
+}, {
+  "hosname": "深圳机场医疗急救中心",
+  "location": {
+    "lng": 113.82428989283207,
+    "lat": 22.64188968455079
+  },
+  "precise": 1,
+  "confidence": 80,
+  "comprehension": 99,
+  "level": "门址"
+}]
